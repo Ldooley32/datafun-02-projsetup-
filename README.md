@@ -5,14 +5,14 @@ Develop a Python module that demonstrates proficiency in loops, project folder c
    
 1. Project Start
 In your Python file, create a docstring with a brief introduction to your project.
-       """Forlder creation module using pathlib and useable functions"""
+     >  """Forlder creation module using pathlib and useable functions"""
 
 3. Import Dependencies (At the Top, After the Introduction)
 Organize your project imports near the top of the file, following conventions. For example, standard library imports first, then external library imports (we don't need any of these yet), then local module imports. Follow conventional package import organization. Import each package just once near the top of the file.
-      import datetime
-      import math
-      import statistics
-      import pathlib
+     > import datetime
+     >import math
+     >import statistics
+     >import pathlib
    
 5. Define Functions for Folder Creation
   a.Define reusable functions to create a series of project folders.
